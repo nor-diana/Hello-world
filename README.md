@@ -1,2 +1,2 @@
 # Hello-world
-Introduction about myelf :)
+Introduction about myself :)
